@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="484" started-at="2018-03-13T09:42:26Z" finished-at="2018-03-13T09:42:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="484" started-at="2018-03-13T09:42:26Z" finished-at="2018-03-13T09:42:27Z">
+      <class name="completemaven.TestClassB">
+        <test-method status="PASS" signature="bmethodd()[pri:0, instance:completemaven.TestClassB@1f4f00f]" name="bmethodd" duration-ms="472" started-at="2018-03-13T10:42:26Z" finished-at="2018-03-13T10:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodd -->
+      </class> <!-- completemaven.TestClassB -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
